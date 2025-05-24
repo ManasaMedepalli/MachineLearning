@@ -1,0 +1,6 @@
+Server name: finance_db
+Host: localhost
+Port: 5433
+Database: finance
+User: postgres
+password: finance123
